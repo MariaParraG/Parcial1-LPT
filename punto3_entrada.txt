@@ -1,0 +1,24 @@
+/* ============================================================
+   ARCHIVO: entrada.txt
+   Casos de prueba para la calculadora con sqrt (Newton-Raphson)
+
+   Uso: ./calculadora < entrada.txt
+   ============================================================ */
+
+/* Raíces cuadradas simples */
+sqrt(4)
+sqrt(2)
+sqrt(9)
+sqrt(0.25)
+sqrt(144)
+
+/* Operaciones aritméticas combinadas */
+3 + 4 * 2
+(3 + 4) * 2
+100 / 4 - 5
+2 * sqrt(16) + 1
+
+/* Raíz cuadrada de expresiones */
+sqrt(2 + 7)
+sqrt(10 * 10)
+sqrt(3) * sqrt(3)
